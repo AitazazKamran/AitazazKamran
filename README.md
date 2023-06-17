@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AitazazKamran
 - 👀 I’m interested in Data sciences
 - 🌱 I’m currently learning Data Sciences
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aitazazkamran11@gmail.com...
 
 <!---
