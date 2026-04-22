@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/muhammad-aitazaz-kamran">
+  <a href="www.linkedin.com/in/muhammadaitazazkamran">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:aitazazkamran11@gmail.com">
@@ -22,7 +22,6 @@
 🎓 Final-year **BS Data Sciences** student at **FAST-NUCES Islamabad** (CGPA: 3.27 | Dean's List: Fall 2023 & Fall 2025)  
 🤖 Passionate about **AI/ML, LLMs, Data Engineering, and BI**  
 🚀 Building **AutoHunt** — an AI-powered hiring automation platform (FYP)  
-🌍 Based in **Islamabad, Pakistan** | Available for **Full-Time & Internship Roles**  
 📫 Reach me at **aitazazkamran11@gmail.com**
 
 ---
@@ -139,6 +138,6 @@ I'm actively seeking opportunities in:
 <p align="center">
   <i>"Turning raw data into decisions that matter."</i><br><br>
   <a href="mailto:aitazazkamran11@gmail.com">📧 aitazazkamran11@gmail.com</a> &nbsp;|&nbsp;
-  <a href="https://linkedin.com/in/muhammad-aitazaz-kamran">💼 LinkedIn</a> &nbsp;|&nbsp;
+  <a href="www.linkedin.com/in/muhammadaitazazkamran">💼 LinkedIn</a> &nbsp;|&nbsp;
   <a href="https://github.com/AitazazKamran">🐙 GitHub</a>
 </p>
