@@ -1,17 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Muhammad+Aitazaz+Kamran+%F0%9F%91%8B;Data+Engineer+%7C+AI+%2F+ML+Engineer;B.Sc.+Data+Science+%40+FAST-NUCES+(2026);Based+in+Alberta%2C+Canada+%F0%9F%87%A8%F0%9F%87%A6;Building+Data+%26+AI+Systems+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Muhammad+Aitazaz+Kamran+%F0%9F%91%8B;Data+Engineer+%7C+AI+%2F+ML+Engineer;B.Sc.+Data+Science+%40+FAST-NUCES+(2026);Based+in+Alberta%2C+Canada+%F0%9F%87%A8%F0%9F%87%A6;Building+Data+%26+AI+Systems+%F0%9F%A4%96" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammadaitazazkamran">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:aitazazkamran11@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/AitazazKamran">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/muhammadaitazazkamran"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:aitazazkamran11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/AitazazKamran"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=AitazazKamran&label=Profile%20Views&color=00d9ff&style=for-the-badge" />
 </p>
 
